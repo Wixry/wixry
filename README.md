@@ -1,4 +1,4 @@
-# Hey, I'm Gijs Mertens👋
+# Hey, I'm WixryDev 👋
 
 ### About me
 - 👦 I am a full stack developer who knows quite some different programming languages ​​and codes for different occasions but mainly for my own pleasure.
