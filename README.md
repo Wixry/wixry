@@ -1,4 +1,4 @@
-<p align="center"><strong>Hey, I'm Gijs Mertens👋</strong></p>
+###### Hey, I'm Gijs Mertens👋
 <ins></ins> 
 - I am a full stack developer who knows quite some different programming languages ​​and code for different occasions but mainly for my own pleasure
 
