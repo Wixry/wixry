@@ -6,3 +6,5 @@
 - 📜 In the past I have worked on various projects such as FiveM/RedM, and Minecraft server nowadays I mainly make websites and phone apps
 
 # Here are the languages I conquer :book:
+
+1. Lua 2. Kotlin 3. Html 4. Css 5. Javascript
