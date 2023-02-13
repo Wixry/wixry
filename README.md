@@ -5,6 +5,8 @@
 
 - 📜 In the past I have worked on various projects such as FiveM/RedM servers, and did some minecraft development back in the days but nowadays I mainly make websites and phone apps
 
+- 👨‍🎓 I would love to learn languages like c#, swift and learn to create better models in blender
+
 # Here are the languages I conquer :book:
 
 ### 1. [Lua](https://www.lua.org/) 2. [Kotlin](https://kotlinlang.org/) 3. [Html](https://www.w3schools.com/howto/howto_make_a_website.asp) & [Css]() 4. [Javascript](https://www.javascript.com/).
