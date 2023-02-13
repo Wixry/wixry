@@ -1,5 +1,5 @@
-###### Hey, I'm Gijs Mertens👋
-<ins></ins> 
+# Hey, I'm Gijs Mertens👋
+
 - I am a full stack developer who knows quite some different programming languages ​​and code for different occasions but mainly for my own pleasure
 
-<p align="center"><strong>Here are the languages I conquer</strong></p>
+# Here are the languages I conquer
