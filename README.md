@@ -7,6 +7,6 @@
 
 # Here are the languages I conquer :book:
 
-### 1. [Lua](https://www.lua.org/) 2. [Kotlin](https://kotlinlang.org/) 3. [Html](https://www.w3schools.com/howto/howto_make_a_website.asp) & [Css]() 4. [Javascript](https://www.javascript.com/).
+### 1. [<b>Lua</b>](https://www.lua.org/) 2. [Kotlin](https://kotlinlang.org/) 3. [Html](https://www.w3schools.com/howto/howto_make_a_website.asp) & [Css]() 4. [Javascript](https://www.javascript.com/).
 
 ###### <sub>(IM STILL WORKING ON THIS PAGE)</sub>
