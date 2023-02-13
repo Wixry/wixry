@@ -7,6 +7,6 @@
 
 # Here are the languages I conquer :book:
 
-### 1. Lua 2. Kotlin 3. Html 4. Css 5. Javascript
+### 1. [Lua](https://pages.github.com/) 2. [Kotlin](https://pages.github.com/) 3. [Html](https://pages.github.com/) 4. [Css](https://pages.github.com/) 5. [Javascript](https://pages.github.com/).
 
 ###### (IM STILL WORKING ON THIS PAGE)
