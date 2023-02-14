@@ -24,6 +24,7 @@
   - Kart logs is a phone app linked to a website where you can save the data/setup of your karts and thus better analyze it. The app will first be realized for Andriod to test whether it is going to be used, and then after the tests it will also be available for iOS
   
   ### 📁 Solvix Scripts
+  - Solvix scripts is a monthly payment for custom scripts for the platform FiveM, standalone, QBCore and esx.
 
 # 📕 Old project logs
 
