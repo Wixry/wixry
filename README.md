@@ -18,3 +18,8 @@
 ### 1. [Lua](https://www.lua.org/) 2. [Kotlin](https://kotlinlang.org/) 3. [Html](https://www.w3schools.com/howto/howto_make_a_website.asp) & [Css]() 4. [Javascript](https://www.javascript.com/).
 
 ###### 👷 <sub>(IM STILL WORKING ON THIS PAGE)</sub>
+
+# Old project logs
+
+#### Nova FiveM
+  - Nova was a project where we worked with a team of 4 developers, in terms of development nova was a very good learning process but it never got aired because we stopped due to all of our busy schedules
