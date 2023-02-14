@@ -17,6 +17,12 @@
 
 ### 1. [Lua](https://www.lua.org/) 2. [Kotlin](https://kotlinlang.org/) 3. [Html](https://www.w3schools.com/howto/howto_make_a_website.asp) & [Css]() 4. [Javascript](https://www.javascript.com/).
 
+# 🗃️ Here are my current projects
+
+  ### 🚙 Kart logs
+  
+  ### 📁 Solvix Scripts
+
 # 📕 Old project logs
 
 - below you see several old projects of mine that I give my opinion on
