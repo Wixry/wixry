@@ -1,9 +1,9 @@
 # 👋 Hey, I'm WixryDev
 
 ### 🚀 About me
-- 👦 I am a 16 year old full stack developer who knows quite some different programming languages ​​and codes for different occasions but mainly for my own pleasure.
+- 👦 I am a 16-year-old full stack developer who knows quite some different programming languages ​​and codes for different occasions but mainly for my pleasure.
 
-- 📜 In the past I have worked on various projects such as FiveM/RedM servers, and did some minecraft development back in the days but nowadays I mainly make websites and phone apps.
+- 📜 In the past I have worked on various projects such as FiveM/RedM servers and did some Minecraft development back in the day but nowadays I mainly make websites and phone apps.
 
   - 🥇 There are plenty of projects that I've been proud of, but I'm now working on a project called Solvix where I sell FiveM/RedM scripts for a monthly fee, it's one of my so far best successful projects yet.
 
@@ -11,7 +11,7 @@
 
   - 🧠 I'm interested in c# because I want to go into game development and start making games from null.
 
-  - 👥 And swift also enable my apps for ios now my apps are mainly for android.
+  - 👥 Swift also enables my apps for ios now my apps are mainly for android.
 
 # ⚖️ Here are the languages I conquer
 
@@ -21,7 +21,7 @@
 
   ### 🚙 Kart logs
   
-  - Kart logs is a phone app linked to a website where you can save the data/setup of your karts and thus better analyze it. The app will first be realized for Andriod to test whether it is going to be used, and then after the tests it will also be available for iOS
+  - Kart logs is a phone app linked to a website where you can save the data/setup of your karts and thus better analyze it. The app will first be realized for Andriod to test whether it is going to be used, and then after the tests, it will also be available for iOS
   
   ### 📁 Solvix Scripts
   - Solvix scripts is a monthly payment for custom scripts for the platform FiveM, standalone, QBCore and esx.
@@ -36,9 +36,9 @@
 
   ### 🏹 PracticeZone 2021 - 2022
   
-  - PracticeZone was a custom made Minecraft server where you could practice different kinds of minigames
+  - PracticeZone was a custom-made Minecraft server where you could practice different kinds of minigames
 
-  ### 🔧 Serveral roblox games 2018 - 2020
+  ### 🔧 Several Roblox games 2018 - 2020
   
   - My first encounter with Lua was with Roblox, did this for quite a while but eventually found it too childish.
 
