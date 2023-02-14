@@ -17,8 +17,6 @@
 
 ### 1. [Lua](https://www.lua.org/) 2. [Kotlin](https://kotlinlang.org/) 3. [Html](https://www.w3schools.com/howto/howto_make_a_website.asp) & [Css]() 4. [Javascript](https://www.javascript.com/).
 
-###### 👷 <sub>(IM STILL WORKING ON THIS PAGE)</sub>
-
 # 📕 Old project logs
 
 - below you see several old projects of mine that I give my opinion on
@@ -29,10 +27,12 @@
 
   ### 🏹 PracticeZone 2021 - 2022
   
-  - PracticeZone was a custom Minecraft server where you could practice different kinds of minigames
+  - PracticeZone was a custom made Minecraft server where you could practice different kinds of minigames
 
   ### 🔧 Serveral roblox games 2018 - 2020
   
   - My first encounter with Lua was with Roblox, did this for quite a while but eventually found it too childish.
 
 - There are many more projects I've worked on, but these are a few of my favourites.
+
+###### 👷 <sub>(IM STILL WORKING ON THIS PAGE)</sub>
