@@ -5,7 +5,7 @@
 
 - 📜 In the past I have worked on various projects such as FiveM/RedM servers, and did some minecraft development back in the days but nowadays I mainly make websites and phone apps.
 
-  - There are plenty of projects that I've been proud of, but I'm now working on a project called Solvix where I sell FiveM/RedM scripts for a monthly fee, it's one of my so far best successful projects yet.
+  - 🥇 There are plenty of projects that I've been proud of, but I'm now working on a project called Solvix where I sell FiveM/RedM scripts for a monthly fee, it's one of my so far best successful projects yet.
 
 - 👨‍🎓 Languages I would love to learn are c#, and swift!
 
