@@ -11,7 +11,7 @@
 
   - 🧠 I'm interested in c# because I want to go into game development and start making games from null.
 
-  - 👥 And swift to also enable my apps for ios now my apps are mainly for android.
+  - 👥 And swift also enable my apps for ios now my apps are mainly for android.
 
 # Here are the languages I conquer :book:
 
