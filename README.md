@@ -1,4 +1,4 @@
-# Hey, I'm WixryDev 👋
+# 👋 Hey, I'm WixryDev
 
 ### 🚀 About me
 - 👦 I am a 16 year old full stack developer who knows quite some different programming languages ​​and codes for different occasions but mainly for my own pleasure.
@@ -13,7 +13,7 @@
 
   - 👥 And swift also enable my apps for ios now my apps are mainly for android.
 
-# ⚖️ Here are the languages I conquer :book:
+# ⚖️ Here are the languages I conquer
 
 ### 1. [Lua](https://www.lua.org/) 2. [Kotlin](https://kotlinlang.org/) 3. [Html](https://www.w3schools.com/howto/howto_make_a_website.asp) & [Css]() 4. [Javascript](https://www.javascript.com/).
 
