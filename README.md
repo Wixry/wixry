@@ -20,7 +20,7 @@
 # 🗃️ My current projects
 
   ### 🚙 Kart logs
-  
+ 
   - Kart logs is a phone app linked to a website where you can save the data/setup of your karts and thus better analyze it. The app will first be realized for Andriod to test whether it is going to be used, and then after the tests, it will also be available for iOS
   
   ### 📁 Solvix Scripts
@@ -28,20 +28,20 @@
 
 # 📕 Old project logs
 
-- below you see several old projects of mine that I give my opinion on
+- 📂 below you see several old projects of mine that I give my opinion on
 
   ### 🧑‍🤝‍🧑 Nova FiveM 2022 - 2023
   
-  - Nova was a project where we worked with a team of 4 developers, in terms of development nova was a very good learning process but it never got aired because we stopped due to all of our busy schedules
+  - 🌟 Nova was a project where we worked with a team of 4 developers, in terms of development nova was a very good learning process but it never got aired because we stopped due to all of our busy schedules
 
   ### 🏹 PracticeZone 2021 - 2022
   
-  - PracticeZone was a custom-made Minecraft server where you could practice different kinds of minigames
+  - 🔫 PracticeZone was a custom-made Minecraft server where you could practice different kinds of minigames
 
   ### 🔧 Several Roblox games 2018 - 2020
   
-  - My first encounter with Lua was with Roblox, did this for quite a while but eventually found it too childish.
+  - 🛸 My first encounter with Lua was with Roblox, did this for quite a while but eventually found it too childish.
 
-- There are many more projects I've worked on, but these are a few of my favourites.
+- 🏆 There are many more projects I've worked on, but these are a few of my favourites.
 
 ###### 👷 <sub>(IM STILL WORKING ON THIS PAGE)</sub>
