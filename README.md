@@ -25,3 +25,7 @@
 
   ### Nova FiveM
   - Nova was a project where we worked with a team of 4 developers, in terms of development nova was a very good learning process but it never got aired because we stopped due to all of our busy schedules
+
+  ### PracticeZone
+  
+  - PracticeZone was a custom Minecraft server where you could practice different kinds of minigames
