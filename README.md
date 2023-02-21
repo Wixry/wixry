@@ -36,7 +36,7 @@
 
   ### 🏹 PracticeZone 2021 - 2022
   
-  - 🔫 PracticeZone was a custom-made Minecraft server where you could practice different kinds of minigames, this interaction with Java was also good learning process but i just dont enjoy the language
+  - 🔫 PracticeZone was a custom-made Minecraft server where you could practice different kinds of minigames, this interaction with Java was also good learning process but i just don't enjoy the language
 
   ### 🔧 Several Roblox games 2018 - 2020
   
